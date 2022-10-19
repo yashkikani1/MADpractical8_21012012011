@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="heart_list" type="id" />
+    <item name="alaram_list" type="id" />
+    <item name="image" type="id" />
+</resources>
